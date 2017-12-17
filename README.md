@@ -1,3 +1,3 @@
 # hello-world
 Saying "Hello world!"
-Hi, it's me and my first git project.
+Hi, this is me and my first git project.
